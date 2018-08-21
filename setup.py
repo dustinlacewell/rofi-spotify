@@ -60,8 +60,8 @@ setup(
     # requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
     install_requires=[
-        'dbus-python==1.2.4',
-        'spotipy==2.3.8',
+        'dbus-python',
+        'spotipy',
     ],
 
     # List additional groups of dependencies here (e.g. development
